@@ -1,6 +1,13 @@
-# API Rate Limit Monitor
+# RateGuard 🛡️
 
-A Slack/Discord bot that monitors API rate limits and sends alerts when you're approaching your limits. Never get caught off guard by rate limit errors again.
+> **API Rate Limit Monitor** - Never get caught off guard by rate limit errors again. Monitor multiple APIs simultaneously and get real-time alerts via Slack or Discord when you're approaching your limits.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/yksanjo/RateGuard)
+[![GitHub stars](https://img.shields.io/github/stars/yksanjo/RateGuard?style=social)](https://github.com/yksanjo/RateGuard)
+
+**RateGuard** is a powerful monitoring tool that keeps track of your API rate limits across multiple services. Get proactive alerts before you hit your limits, preventing service disruptions and ensuring your applications run smoothly.
 
 ## Features
 
